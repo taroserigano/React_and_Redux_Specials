@@ -1,20 +1,48 @@
-# Seasons App
+# Weather, a React-Redux's Sample  
+
+This is a simple web SPA which demonstrate the basic parts of React-Redux such as Reducers, Action, Action creator and also these new things: 
+
+- Action creator for calling API Backend (OpenWeather API) & defined the Action's type as constant.
+- Calling API through using axios library.
+- Using specific redux middleware (redux-promise) for handling Promise object (returned from calling axios's get method) into resolved data and assign the resolved data into the action's payload, automatically.
+- Handling state in reducer by not mutating the state. Instead, we create a new state which takes prior state's data and also current data.
+- Displaying a series of data in a line chart through using components in react-sparklines library.
+- Displaying location-type data in a mini google map through using components in react-google-maps library.
+- Refactoring duplicated markups by moving these markup into a component (WeatherList component) so that the markups can be shared in other area within application.
 
 
-## App Description
-Season app is simple, in that a screen with a message will be loaded depending on what season you are currently in. To get the season we used the [Geolocation API](https://developer.mozilla.org/en-US/docs/Web/API/Geolocation_API) along with some conditional statements that derived the season whether you are in the Northern or Southern Hemisphere. That is all!
+###Known issues:###
 
-## Learning Objectives and Outcomes
-* Learned how to bootstrap a React App using [Create React App](https://github.com/facebook/create-react-app#creating-an-app) and do initial configuration.
-* First look at [JSX](https://reactjs.org/docs/introducing-jsx.html), the syntax extension to JavaScript used in React.
-* Introduced to the **Props** system in React, with a good overview of how they work and how to structure and pass props.
-* First introduction to **Functional** and **Class Based** components.
-* An introduction to **State** in React Components
-* And finally a very good introduction to the difficult topic of **Lifecycle Methods** in React.
+- Current implementation does not support responsive layout. 
+- Returned Error from calling API Backend has not been shown on screen yet.
+- Refreshing the result can only be made through refreshing the page. 
 
-### Other Season App Info
-- We used [Semantic UI](https://semantic-ui.com/) for the user interface and styling of the app.
-- The Geolocation API was a first for me, as I had not known it existed and now will try to use it more often.
+Interested in learning [Redux](https://www.udemy.com/react-redux/)?
 
-### Quick Reflection
-I feel this course by Stephen Grider truly is the best introduction to React I have seen yet. I worked through part of the Udacity React content, and felt confused and pretty much lost, particularly on the project that was used as the final application required on the Front End Developer NanoDegree. But already in the very first mini application of this course, I feel already more confident in my understanding of the very basics of React as I ever have up until now. 
+###Getting Started###
+
+There are two methods for getting started with this repo:
+
+####Familiar with Git?#####
+Checkout this repo, install dependencies, then start the gulp process with the following:
+
+```
+	> git clone https://github.com/WendySanarwanto/udemy-modern-react-with-redux.git
+	> cd udemy-modern-react-with-redux/weather
+	> npm install
+	> npm start
+```
+
+####Not Familiar with Git?#####
+Click [here](https://github.com/WendySanarwanto/udemy-modern-react-with-redux/archive/master.zip) then download the .zip file.  Extract the contents of the zip file, then open your terminal, change to the project directory, and:
+
+```
+	> npm install
+	> npm start
+```
+or, if you favor yarn over npm:
+
+```	
+	> yarn
+	> npm start
+```

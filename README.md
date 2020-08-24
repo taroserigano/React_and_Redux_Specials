@@ -1,19 +1,30 @@
 # React-with-Redux
 
-udemy-modern-react-with-redux
-A collection of ReactJS sample exercises based on tutorial videos of Udemy's Modern React with Redux course, created by Stephen Grider
 
-Sample Apps
-fake-youtube - A simple web SPA which demonstrate the fundamental concepts of ReactJS such as Component, State & Props.
+# Modern React with Redux
+## Udemy Tutorial: Modern React with Redux by Stephen Grider
+- https://www.udemy.com/react-redux
+- his repo for the course: https://github.com/StephenGrider/ReduxCasts
 
-books-list - This sample demonstrate the concepts of React-Redux such as Reducers, Action, ActionCreators, map state to props, map action to props & containers.
+### Video Browser App:
+- video sections "An Intro to React" and "AJAX Requests with React"
+    - uses [Youtube API](https://developers.google.com/youtube/v3/)
 
-weather - This sample demonstrate calling Backend API from within Action Creator, transform the result through using redux-promise library, rendering Chart component using react-sparklines, display google maps and few other more.
+### Book List App
 
-blog - This 3rd sample demonstrates how to implement Pages navigation within a ReactJS app through using react-router library. The sample also demonstrates building a Form through using redux-form library as well.
+### Weather App
+  - uses openweathermap.org's free API to get weather data
+  - also uses google maps
+  
+### Blog App
+  - uses API Stephen Grider wrote for this tutorial: http://reduxblog.herokuapp.com/
+  - uses [axios](https://www.npmjs.com/package/axios), which is a "Promise based HTTP client for the browser and node.js"
+  - video section "Exploring the Posts API"
+    - uses Postman, a free application for API Development: https://www.getpostman.com/
 
-blog-2018 - This is the 2018 version of 3rd sample which demonstrates how to implement Pages navigation within a ReactJS app through using react-router-dom library and building a Form through using redux-form library, to implement the App which perform CRUD features.
-
-reselect-demo - A sample app which demonstrates the usage of reselect plugin, for displaying a list of selected items from a state which returns a list of Items and a state which returns a list of seleted item's IDs. Example of reselect usage is in selecting products and put them into shopping chart.
-
-animation-demo - A sample app which demonstrates simple animation that is applied on React component, through using CSS animation and React CSS Transition Group library.
+---------------------------------------------------------------------------------------------------
+- if you accidentally push node_modules to a repo by not putting them in the .gitignore
+    file and need to remove them, run:
+    - `git rm -r --cached node_modules`
+    - `git commit -m "remove the ignored node_modules directory"`
+    - `git push origin master`

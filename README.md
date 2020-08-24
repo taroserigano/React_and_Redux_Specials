@@ -7,11 +7,11 @@ A collection of ReactJS sample exercises based on tutorial videos of Udemy's Mod
 
 - [**Blogging-Longing**](https://github.com/taroserigano/React-with-Redux/tree/master/Blogging-Longing) - This 3rd sample demonstrates how to implement Pages navigation within a ReactJS app through using `react-router` library. The sample also demonstrates building a Form through using [`redux-form`](https://www.npmjs.com/package/redux-form) library as well.
 
-- [**Keeper-Notes**](https://github.com/taroserigano/React-with-Redux/tree/master/Keeper-Notes) - A simple but powerful App that shows how React can efficiently create an app that lets your create, edit, and delete notes. 
+- [**Keeper**](https://github.com/taroserigano/React-with-Redux/tree/master/Keeper) - A simple but powerful App that shows how React can efficiently create an app that lets your create, edit, and delete notes. 
 
 - [**Pics-Finder**](https://github.com/taroserigano/React-with-Redux/tree/master/Pics-Finder) - A simple sample App that uses Unsplash API and lets you search through photo images you'd like to find.
 
-- [**Weather**](https://github.com/taroserigano/React-with-Redux/tree/master/Weather) - This sample demonstrate calling Backend API from within Action Creator, transform the result through using [`redux-promise`](https://www.npmjs.com/package/redux-promise) library, rendering Chart component using react-sparklines, display google maps and few other more.
+- [**Seasons**](https://github.com/taroserigano/React-with-Redux/tree/master/Seasons) - This sample demonstrate calling Backend API from within Action Creator, transform the result through using [`redux-promise`](https://www.npmjs.com/package/redux-promise) library, rendering Chart component using react-sparklines, display google maps and few other more.
 
 - [**Streaming-Channel**](https://github.com/taroserigano/React-with-Redux/tree/master/Streaming-Channel) - 
 This streaming channel app lets you create your own account and create streamig channel in which

@@ -2,6 +2,9 @@
 
 A collection of ReactJS sample exercises based on tutorial videos of Udemy's Modern React with Redux course
 
+![alt text](https://github.com/taroserigano/React-with-Redux/blob/master/Pictures/react.jpeg)
+
+
 ## Sample Apps
 
 

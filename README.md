@@ -2,25 +2,22 @@
 
 A collection of ReactJS sample exercises based on tutorial videos of Udemy's Modern React with Redux course
 
-### Video Browser App:
-- video sections "An Intro to React" and "AJAX Requests with React"
-    - uses [Youtube API](https://developers.google.com/youtube/v3/)
+## Sample Apps
 
-### Book List App
 
-### Weather App
-  - uses openweathermap.org's free API to get weather data
-  - also uses google maps
-  
-### Blog App
-  - uses API Stephen Grider wrote for this tutorial: http://reduxblog.herokuapp.com/
-  - uses [axios](https://www.npmjs.com/package/axios), which is a "Promise based HTTP client for the browser and node.js"
-  - video section "Exploring the Posts API"
-    - uses Postman, a free application for API Development: https://www.getpostman.com/
+- [**Blogging-Longing**](https://github.com/taroserigano/React-with-Redux/tree/master/Blogging-Longing) - This 3rd sample demonstrates how to implement Pages navigation within a ReactJS app through using `react-router` library. The sample also demonstrates building a Form through using [`redux-form`](https://www.npmjs.com/package/redux-form) library as well.
 
----------------------------------------------------------------------------------------------------
-- if you accidentally push node_modules to a repo by not putting them in the .gitignore
-    file and need to remove them, run:
-    - `git rm -r --cached node_modules`
-    - `git commit -m "remove the ignored node_modules directory"`
-    - `git push origin master`
+- [**Keeper-Notes**](https://github.com/taroserigano/React-with-Redux/tree/master/Keeper-Notes) - A simple but powerful App that shows how React can efficiently create an app that lets your create, edit, and delete notes. 
+
+- [**Pics-Finder**](https://github.com/taroserigano/React-with-Redux/tree/master/Pics-Finder) - A simple sample App that uses Unsplash API and lets you search through photo images you'd like to find.
+
+- [**Weather**](https://github.com/taroserigano/React-with-Redux/tree/master/Weather) - This sample demonstrate calling Backend API from within Action Creator, transform the result through using [`redux-promise`](https://www.npmjs.com/package/redux-promise) library, rendering Chart component using react-sparklines, display google maps and few other more.
+
+- [**Streaming-Channel**](https://github.com/taroserigano/React-with-Redux/tree/master/Streaming-Channel) - 
+This streaming channel app lets you create your own account and create streamig channel in which
+you can show whatever you'd like to show on the channel. This application uses React with redux, hooks, Google Auth and OBS streaming. 
+
+- [**Translate-with-Context**](https://github.com/taroserigano/React-with-Redux/tree/master/Translate-with-Context) - A simple sample App that converts translation between English and Dutch. 
+
+- [**Youtube-ISH**](https://github.com/taroserigano/React-with-Redux/tree/master/Youtube-ISH) - A simple web SPA which demonstrate the fundamental concepts of *ReactJS* such as *Component*, *State* & *Props*. This application uses Google Youtube API.
+

@@ -1,4 +1,6 @@
-# Weather, a React-Redux's Sample  
+# Weather, React-Redux's Sample App
+
+![alt text](https://github.com/taroserigano/React-with-Redux/blob/master/Pictures/Weather.png)
 
 This is a simple web SPA which demonstrate the basic parts of React-Redux such as Reducers, Action, Action creator and also these new things: 
 

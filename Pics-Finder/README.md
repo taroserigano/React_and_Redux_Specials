@@ -1,4 +1,5 @@
 # Pics-Finder App
+You can try the app here!: https://pics-pics.herokuapp.com/
 
 
 ## App Description

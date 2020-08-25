@@ -1,6 +1,7 @@
 # Pics-Finder App
 You can try the app here!: https://pics-pics.herokuapp.com/
 
+![alt pics](https://github.com/taroserigano/Moden-React-with-Redux/blob/master/Pictures/pics-finder.png)
 
 ## App Description
 Pics app is mainly a searchbar demonstration app, where we learned how to implement a search feature, retrieve data from an API and to render the returned data on the screen using a modern layout. In this case the API was Unsplash API, the data was Unsplash images based on our search term, and the layout was CSS Grid to give the images a great repsonsive appearance. 

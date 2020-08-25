@@ -1,4 +1,4 @@
-# STREAMING CHANNEL
+# STREAMING CHANNEL with Google Auth
 
 ## 1
 ![alt text](https://github.com/taroserigano/Moden-React-with-Redux/blob/master/Pictures/stream1.png)

@@ -1,6 +1,5 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-# Try the running website here: https://translate-with-context.herokuapp.com/
+*Try the running website here: https://translate-with-context.herokuapp.com/
 
 # Translate with Context
 

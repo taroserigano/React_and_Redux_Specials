@@ -1,7 +1,13 @@
 # STREAMING CHANNEL
 
+## 1
 ![alt text](https://github.com/taroserigano/Moden-React-with-Redux/blob/master/Pictures/stream1.png)
 
+## 2
+![alt text](https://github.com/taroserigano/Moden-React-with-Redux/blob/master/Pictures/stream2.png)
+
+## 3
+![alt text](https://github.com/taroserigano/Moden-React-with-Redux/blob/master/Pictures/stream3.png)
 
 # React app with redux, hooks, Google Auth, OBS Streaming
 From coding along with Stephen Grider in his Udemy course https://www.udemy.com/react-redux (and code here https://github.com/StephenGrider/redux-code)

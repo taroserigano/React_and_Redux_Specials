@@ -1,3 +1,7 @@
+# BLOG APP
+
+![alt text](https://github.com/taroserigano/Moden-React-with-Redux/blob/master/Pictures/blog.png)
+
 ## Purpose of App
 The purpose of this app is to ensure that I **absolutely** understand:
 - the purpose of reducers

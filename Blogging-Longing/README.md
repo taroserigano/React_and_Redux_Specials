@@ -92,7 +92,7 @@ const reducerName = (oldInfo = [], action) => {
       return [...oldInfo, action.payload]
    };
 
-   // we dont care about this action
+   // we dont care about this actions
    return oldInfo;
 }
 ```

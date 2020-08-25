@@ -1,4 +1,5 @@
-# BLOG APP (you can try the app here: https://blog12342.herokuapp.com/)
+# BLOG APP 
+(you can try the app here: https://blog12342.herokuapp.com/)
 
 ![alt text](https://github.com/taroserigano/Moden-React-with-Redux/blob/master/Pictures/blog.png)
 

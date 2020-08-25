@@ -1,5 +1,5 @@
 
-*Try the running website here: https://translate-with-context.herokuapp.com/
+Try the working website here: https://translate-with-context.herokuapp.com/
 
 # Translate with Context
 

@@ -1,5 +1,7 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+![alt translate](https://github.com/taroserigano/Moden-React-with-Redux/blob/master/Pictures/translate.png)
+
 ## Available Scripts
 
 In the project directory, you can run:

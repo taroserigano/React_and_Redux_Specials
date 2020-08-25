@@ -1,5 +1,6 @@
-# Videos App
-A follow along React application from Stephen Grider's **Modern React with Redux (2019)** Udemy course, which can be found [here](https://www.udemy.com/react-redux/learn/v4/content)
+# YOUTUBE-ISH App
+
+![alt youtube-ish](https://github.com/taroserigano/Moden-React-with-Redux/blob/master/Pictures/videos.png)
 
 ## App Description
 Videos app is mainly a YouTube Data API demonstration app, which provides a search interface for finding YouTube videos based on the entered search term, and returning these videos as a detailed list. When a video item in the list is clicked, a video player element will appear on the screen and the selected video can be played. It is very similar to the previous [Pics](https://github.com/chadwyck242/pics). In general this was considered an optional learning section by Stephen Grider, just for those who want another chance to practice the basics of React before we move on.

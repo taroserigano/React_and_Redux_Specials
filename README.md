@@ -1,6 +1,6 @@
 # Modern React with Redux
 
-A collection of ReactJS applications based on tutorial videos of Udemy's Modern React with Redux course
+A collection of ReactJS applications
 
 ![alt text](https://github.com/taroserigano/React-with-Redux/blob/master/Pictures/react.jpeg)
 

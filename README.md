@@ -9,8 +9,6 @@ A collection of ReactJS applications
 
 - [**Youtube-Mock**](https://github.com/taroserigano/React-with-Redux/tree/master/Youtube-ISH) - A simple web app that uses Google Youtube API, which demonstrate the fundamental concepts of *ReactJS* such as *Component*, *State* & *Props*. 
 
-- [**Blogging-Longing**](https://github.com/taroserigano/React-with-Redux/tree/master/Blogging-Longing) - This app demonstrates how to implement Pages navigation within a ReactJS app through using `react-router` library. The sample also demonstrates building a Form through using [`redux-form`](https://www.npmjs.com/package/redux-form) library as well.
-
 - [**UnSplash-Pics-Finder**](https://github.com/taroserigano/React-with-Redux/tree/master/Pics-Finder) - A simple sample App that uses Unsplash API and lets you search through photo images you'd like to find.
 
 - [**Streaming-Channel**](https://github.com/taroserigano/React-with-Redux/tree/master/Streaming-Channel) - 

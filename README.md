@@ -7,6 +7,7 @@ A collection of ReactJS applications
 
 ## Sample Apps
 
+- [**Youtube-Mock**](https://github.com/taroserigano/React-with-Redux/tree/master/Youtube-ISH) - A simple web app that uses Google Youtube API, which demonstrate the fundamental concepts of *ReactJS* such as *Component*, *State* & *Props*. 
 
 - [**Blogging-Longing**](https://github.com/taroserigano/React-with-Redux/tree/master/Blogging-Longing) - This app demonstrates how to implement Pages navigation within a ReactJS app through using `react-router` library. The sample also demonstrates building a Form through using [`redux-form`](https://www.npmjs.com/package/redux-form) library as well.
 
@@ -21,5 +22,5 @@ you can show whatever you'd like to show on the channel. This application uses R
 
 - [**Translate-with-Context**](https://github.com/taroserigano/React-with-Redux/tree/master/Translate-with-Context) - A simple sample App that converts translation between English and Dutch. 
 
-- [**Youtube-ISH**](https://github.com/taroserigano/React-with-Redux/tree/master/Youtube-ISH) - A simple web SPA which demonstrate the fundamental concepts of *ReactJS* such as *Component*, *State* & *Props*. This application uses Google Youtube API.
+
 

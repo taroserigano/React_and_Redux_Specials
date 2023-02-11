@@ -3,7 +3,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 This project was created by Joseph Bae for the Modern React with Redux 2020 Update course on Udemy.
 
 
-## Widgets Gif
+## Widgets Gifs
 ![](widgets.gif)
 
 ## Available Scripts
